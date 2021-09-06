@@ -1,5 +1,9 @@
 # Employeemanagerapp
 
+Aplicação Front-End para estudo de desenvolvimento Full Stack com Angular e Spring Boot.
+
+A aplicação Back-End está no repositório [employeemanager](https://github.com/fabricoliveira/employeemanager).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
 ## Development server
