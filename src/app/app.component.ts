@@ -65,6 +65,7 @@ export class AppComponent implements OnInit {
         console.log(error.message);
       }
     );
+    addForm.reset();
   }
 
   public onUpdateEmployee(employee: Employee): void {
